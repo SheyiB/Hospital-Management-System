@@ -1,0 +1,17 @@
+{
+  "name": "hspmgt",
+  "version": "1.0.0",
+  "description": "An API for Hospital Management System following the model view controller to be consumed later by a front end designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Banjo Elijah R.",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.13"
+  }
+}
